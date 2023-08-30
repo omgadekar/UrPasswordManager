@@ -21,6 +21,15 @@ Tech Stack:
     ⚙️ Android Studio
     ☕ Java
 
+
+![App](https://github.com/omgadekar/UrPasswordManager/assets/74897702/47b7d7fb-8245-4dff-afd0-ed1c568478f6)
+
+ 
+
+https://github.com/omgadekar/UrPasswordManager/assets/74897702/f2e25460-1813-491c-b982-580858aed788
+
+
+
 Key Takeaways:
 
     🚀 Developed as a personal project during my Master's in Computer Application journey.
